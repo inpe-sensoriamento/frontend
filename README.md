@@ -49,4 +49,4 @@
 - Link da documentação da Sprint
 - Link do video da entrega da sprint
 
-  Link excel: https://fatecspgov.sharepoint.com/:x:/r/sites/DevMaster/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B8d06a1f0-ae83-4d06-ac98-d0c82b50ae88%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1757978527294&web=1
+- Equipe : https://fatecspgov.sharepoint.com/:x:/r/sites/DevMaster/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B8d06a1f0-ae83-4d06-ac98-d0c82b50ae88%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1757978527294&web=1
