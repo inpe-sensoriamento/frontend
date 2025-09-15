@@ -1,7 +1,7 @@
 - DevMaster
 - Descrição: A criação de um website para o Laboratório de Sensoriamento Remoto Agrícola do INPE (AgriRS Lab) tem como propósito principal centralizar as informações importantes do laboratório, ampliar a visibilidade do laboratório e facilitar o acesso do público às nossas pesquisas, projetos e iniciativas. Além disso, seria importante para divulgar informações importantes, como os integrantes da equipe, nossas áreas de atuação, publicações científicas, oportunidades de trabalho e formas de contato. Isso ajudaria a manter nossas atividades e descobertas científicas atualizadas para a comunidade e promoveria a divulgação do lab para quem quiser conhecer ou se aproximar do nosso trabalho.
 - Backlog:
-RF01 – Página Inicial (Início/Home):
+    -RF01 – Página Inicial (Início/Home):
 RF01.1 – Apresentar botões/menus de navegação para todas as páginas do site.
 RF01.2 – Exibir seções em destaque (cards) com chamadas para notícias, projetos, publicações ou outras atualizações.
 RF01.3 – Link para redes sociais e contato no final da página.
