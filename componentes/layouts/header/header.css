@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+}
+header{
+    width: 100%;
+    position: relative;
+    padding: 0px;
+    align-items: center;
+    margin: 0px;
+}
+#logo{
+    display: flex;
+    margin-left: 187px;
+    margin-right: 60px;
+}
+#imglogo{
+    height:80px;
+    width: 80px;
+    margin: 0px;
+    margin-right: 9px;
+    margin-bottom: 20px;
+}
+.txtbar{
+    display: flex;
+    flex-direction: column;
+}
+.txtbar h2{
+    margin-bottom: 10px;
+}
+#plogo{
+ margin-block-start: auto;
+}
+.toolbar{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: white ;
+    padding: 30px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-around;
+}
+.toolbar > div{
+    margin: 0px;
+}
+.btnpadrao{
+    margin-left: 60px;
+    border-radius: 12px;
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+    margin: 0px;
+    padding: 10px;
+}
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+.fullbtn button{
+    display: flex;
+    gap: 2 rem;
+
+}
+.fullbtn{
+    display: flex;
+    gap: 2rem;
+    margin-right: 24px;
+}
